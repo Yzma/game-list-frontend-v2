@@ -62,7 +62,7 @@ npm install
 4. Fill out all variables in .env file.
 
 ```sh
-VITE_BACKEND="http://127.0.0.1:3000/graphql"
+VITE_BACKEND="http://127.0.0.1:3000/"
 ```
 
 5. Run the application
